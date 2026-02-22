@@ -56,7 +56,7 @@
 ## Contact
 
 - **Email**: [contact@breathejourney.com](mailto:contact@breathejourney.com)
-- **Website**: [breathejourney.com](https://breathejourney.com)
+- **Website**: [breathejourney.com](https://www.breathejourney.com)
 
 ---
 
