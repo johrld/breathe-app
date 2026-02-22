@@ -8,16 +8,12 @@
   **Open the app. Breathe. Feel better.**
 
   <a href="https://apps.apple.com/app/breathe-meditation-timer/id1087354227">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50" />
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="44" />
   </a>
   &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.idearockers.breathe">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="44" />
   </a>
-
-  <br/><br/>
-
-  [Features](#-features) • [Screenshots](#-screenshots) • [Contact](#-contact)
 
 </div>
 
